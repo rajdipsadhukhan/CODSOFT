@@ -35,7 +35,7 @@ Each project focuses on basic programming concepts, logic building, and user int
 * Deposit, Withdraw, Check Balance
 * Console-based interaction
 
-📁 Folder: `ATMInterface`
+📁 Folder: `ATM_Interface`
 
 ---
 
