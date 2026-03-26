@@ -39,9 +39,19 @@ Each project focuses on basic programming concepts, logic building, and user int
 
 ---
 
+### 🎓 4. Student Management System (JDBC + MySQL)
+
+* Add, View, Search, Update, Delete student records
+* Uses MySQL database connectivity (JDBC)
+* Demonstrates CRUD operations with database
+
+📁 Folder: `StudentManagementSystem`
+
 ## 🛠️ Technologies Used
 
 * Java (Core Java)
+* JDBC (Java Database Connectivity)
+* MySQL
 * Console (CLI-based programs)
 
 ---
