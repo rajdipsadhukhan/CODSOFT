@@ -3,9 +3,9 @@ import java.util.Scanner;
 
 
 public class StudentManagementSystem {
-    private static final String url = "jdbc:mysql://127.0.0.1:3307/student_db";
-    private static final String username = "root";
-    private static final String password = "Rajdip@2005";
+    private static final String url = "put database url";
+    private static final String username = "put username";
+    private static final String password = "put password";
 
 
     // Add student
